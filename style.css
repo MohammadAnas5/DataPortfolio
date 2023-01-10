@@ -306,8 +306,8 @@ display:none;
 .Gallery .ttr_headershape02
 {
 background-color:#00CBCB;
-background:rgba(0,203,203,0.3);
-background-clip:padding-box;border-radius:0px 0px 0px 0px;
+background:rgba(181, 233, 233, 0.666);
+background-clip:padding-box;border-radius:50px 50px 50px 50px;
 border:solid #000000;
 border:solid rgba(0,0,0,1);
 border-width:0px 0px 0px 0px;
@@ -316,8 +316,8 @@ margin:auto;
 left:0;
 right:0;
 top:120px;
-width:200px;
-min-height:60px;
+width:1300px;
+height:660px;
 position:absolute;
 display:block;
 transform:rotate(0deg);
